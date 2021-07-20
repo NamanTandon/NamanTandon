@@ -1,4 +1,4 @@
-- 👋 Hi, My name is NamanTandon
+- 👋 Hi, My name is Naman Tandon.
 <!--- 👀 I’m interested in --->
 - 🌱 I’m currently learning C++ and data structures and algorithms.
 <!--- 💞️ I’m looking to collaborate on ... --->
