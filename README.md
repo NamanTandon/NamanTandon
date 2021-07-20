@@ -1,6 +1,7 @@
 - 👋 Hi, My name is Naman Tandon.
 <!--- 👀 I’m interested in --->
-- 🌱 I’m currently learning C++ and data structures and algorithms.
+- 🌱 I’m currently learning C++ 
+- 🌱 I’m currently learning data structures and algorithms.
 <!--- 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me : namantandon16@gmail.com
 
