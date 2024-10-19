@@ -1,8 +1,6 @@
 - 👋 Hi, My name is Naman Tandon.
 <!--- 👀 I’m interested in --->
-- 🌱 I’m currently learning:
--  C++ .
--  Data structures and algorithms.
+- I am React developer and I love to make front-end projects.
 <!--- 💞️ I’m looking to collaborate on ... --->
 <!--- 📫 How to reach me : Mail me.--->
 
